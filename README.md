@@ -1,6 +1,6 @@
 # EcoVent Home Assistant Integration
 
-[![HACS Badge](https://img.shields.io/badge/HACS-Custom-orange.svg)](https://github.com/aglehmann/home_assistant_ecovent)
+[![HACS Badge](https://img.shields.io/badge/HACS-Custom-orange.svg)](https://github.com/larstobi/home_assistant_ecovent)
 
 Home Assistant custom component for heat recovery ventilation units.
 See below sections for details about 'supported' ventilation units.
@@ -12,7 +12,7 @@ See below sections for details about 'supported' ventilation units.
 The recommended way of installing this component is using the [Home Assistant Community Store](https://hacs.xyz).
 To install the integration follow these steps:
 
-1. Go to the HACS Settings and add the custom repository `aglehmann/home_assistant_ecovent` with category "Integration".
+1. Go to the HACS Settings and add the custom repository `larstobi/home_assistant_ecovent` with category "Integration".
 2. Open the "Integrations" tab and search for "EcoVent".
 3. Follow the instructions on the page to set the integration up.
 
